@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+  <parmeter name="url"  value="https://www.amazon.in/"> </parmeter>
+    <classes>
+      <class name="TestLearn"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+ 
